@@ -1,0 +1,2 @@
+interface g0/0
+description Connected to core switch
